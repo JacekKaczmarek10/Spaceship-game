@@ -1,4 +1,7 @@
-# Pong_game
- A game in c++ that involves bouncing the ball. The game is meant for 2 people.
- In kod.cpp file there are all functions. 
- Pomoc.h is a header file. There are variable name declarations.
+Project created for lecture on Basic OfProgramming at Poznan University of Technology
+
+# Spaceship_game
+ A game in c++ that involves destroying bullets in order want to survive. 
+ User has got a spaceship and his own bullets. Ship can move in order to bypass enemy bulltes.
+ 
+ ![](https://raw.githubusercontent.com/JacekKaczmarek10/Spaceship_game/master/ss1.png)
