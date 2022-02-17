@@ -1,6 +1,6 @@
 
 
-# Spaceship_game
+# Spaceship game
 
 Project created for lecture on Basic OfProgramming at Poznan University of Technology
 
